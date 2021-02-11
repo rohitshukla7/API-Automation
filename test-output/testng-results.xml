@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3307" started-at="2020-06-04T15:22:44 IST" finished-at="2020-06-04T15:22:47 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3307" started-at="2020-06-04T15:22:44 IST" finished-at="2020-06-04T15:22:47 IST">
+      <class name="apiautomationdemo.APILocalServerDemo">
+        <test-method status="PASS" signature="test_GETRequestValidation()[pri:0, instance:apiautomationdemo.APILocalServerDemo@49fc609f]" name="test_GETRequestValidation" duration-ms="3226" started-at="2020-06-04T15:22:44 IST" finished-at="2020-06-04T15:22:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_GETRequestValidation -->
+      </class> <!-- apiautomationdemo.APILocalServerDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
